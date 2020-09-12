@@ -1,0 +1,145 @@
+
+
+Version:	3.12
+CmdLine:	C:\Users\TOLSTOI\Documents\AbarrotesCompu\ControlAbarrotes.exe --l4j-debug
+WOW64:		yes
+Working dir:	C:\Users\TOLSTOI\Documents\AbarrotesCompu\.
+Java min ver:	1.000.000
+Java max ver:	
+Bundled JRE:	1.0.0
+Check launcher:	C:\Users\TOLSTOI\Documents\AbarrotesCompu\1.0.0\bin\javaw.exe (not found)
+64-bit search:	SOFTWARE\JavaSoft\Java Runtime Environment...
+Check:		SOFTWARE\JavaSoft\Java Runtime Environment\1.8
+Check launcher:	C:\Program Files\Java\jre1.8.0_261\bin\javaw.exe (OK)
+Match:		1.008.000
+Check:		SOFTWARE\JavaSoft\Java Runtime Environment\1.8.0_261
+Check launcher:	C:\Program Files\Java\jre1.8.0_261\bin\javaw.exe (OK)
+Match:		1.008.000_261
+64-bit search:	SOFTWARE\JavaSoft\Java Development Kit...
+Check:		SOFTWARE\JavaSoft\Java Development Kit\1.8
+Ignore:		1.008.000
+Check:		SOFTWARE\JavaSoft\Java Development Kit\1.8.0_261
+Ignore:		1.008.000_261
+64-bit search:	SOFTWARE\JavaSoft\JRE...
+64-bit search:	SOFTWARE\JavaSoft\JDK...
+Runtime used:	1.008.000_261 (64-bit)
+Launcher:	C:\Program Files\Java\jre1.8.0_261\bin\javaw.exe
+Launcher args:	-jar "C:\Users\TOLSTOI\Documents\AbarrotesCompu\ControlAbarrotes.exe"
+Args length:	69/32768 chars
+Error msg:	An error occurred while starting the application.
+
+
+Version:	3.12
+CmdLine:	C:\Users\TOLSTOI\Documents\AbarrotesCompu\ControlAbarrotes.exe --l4j-debug
+WOW64:		yes
+Working dir:	C:\Users\TOLSTOI\Documents\AbarrotesCompu\.
+Java min ver:	1.000.000
+Java max ver:	
+Bundled JRE:	1.0.0
+Check launcher:	C:\Users\TOLSTOI\Documents\AbarrotesCompu\1.0.0\bin\javaw.exe (not found)
+64-bit search:	SOFTWARE\JavaSoft\Java Runtime Environment...
+Check:		SOFTWARE\JavaSoft\Java Runtime Environment\1.8
+Check launcher:	C:\Program Files\Java\jre1.8.0_261\bin\javaw.exe (OK)
+Match:		1.008.000
+Check:		SOFTWARE\JavaSoft\Java Runtime Environment\1.8.0_261
+Check launcher:	C:\Program Files\Java\jre1.8.0_261\bin\javaw.exe (OK)
+Match:		1.008.000_261
+64-bit search:	SOFTWARE\JavaSoft\Java Development Kit...
+Check:		SOFTWARE\JavaSoft\Java Development Kit\1.8
+Ignore:		1.008.000
+Check:		SOFTWARE\JavaSoft\Java Development Kit\1.8.0_261
+Ignore:		1.008.000_261
+64-bit search:	SOFTWARE\JavaSoft\JRE...
+64-bit search:	SOFTWARE\JavaSoft\JDK...
+Runtime used:	1.008.000_261 (64-bit)
+Launcher:	C:\Program Files\Java\jre1.8.0_261\bin\javaw.exe
+Launcher args:	-jar "C:\Users\TOLSTOI\Documents\AbarrotesCompu\ControlAbarrotes.exe"
+Args length:	69/32768 chars
+Error msg:	An error occurred while starting the application.
+
+
+Version:	3.12
+CmdLine:	C:\Users\TOLSTOI\Documents\AbarrotesCompu\ControlAbarrotes.exe --l4j-debug
+WOW64:		yes
+Working dir:	C:\Users\TOLSTOI\Documents\AbarrotesCompu\.
+Java min ver:	1.000.000
+Java max ver:	
+Bundled JRE:	1.0.0
+Check launcher:	C:\Users\TOLSTOI\Documents\AbarrotesCompu\1.0.0\bin\javaw.exe (not found)
+64-bit search:	SOFTWARE\JavaSoft\Java Runtime Environment...
+Check:		SOFTWARE\JavaSoft\Java Runtime Environment\1.8
+Check launcher:	C:\Program Files\Java\jre1.8.0_261\bin\javaw.exe (OK)
+Match:		1.008.000
+Check:		SOFTWARE\JavaSoft\Java Runtime Environment\1.8.0_261
+Check launcher:	C:\Program Files\Java\jre1.8.0_261\bin\javaw.exe (OK)
+Match:		1.008.000_261
+64-bit search:	SOFTWARE\JavaSoft\Java Development Kit...
+Check:		SOFTWARE\JavaSoft\Java Development Kit\1.8
+Ignore:		1.008.000
+Check:		SOFTWARE\JavaSoft\Java Development Kit\1.8.0_261
+Ignore:		1.008.000_261
+64-bit search:	SOFTWARE\JavaSoft\JRE...
+64-bit search:	SOFTWARE\JavaSoft\JDK...
+Runtime used:	1.008.000_261 (64-bit)
+Launcher:	C:\Program Files\Java\jre1.8.0_261\bin\javaw.exe
+Launcher args:	-jar "C:\Users\TOLSTOI\Documents\AbarrotesCompu\ControlAbarrotes.exe"
+Args length:	69/32768 chars
+Error msg:	An error occurred while starting the application.
+
+
+Version:	3.12
+CmdLine:	C:\Users\TOLSTOI\Documents\AbarrotesCompu\ControlAbarrotes.exe --l4j-debug
+WOW64:		yes
+Working dir:	C:\Users\TOLSTOI\Documents\AbarrotesCompu\.
+Java min ver:	1.000.000
+Java max ver:	
+Bundled JRE:	1.0.0
+Check launcher:	C:\Users\TOLSTOI\Documents\AbarrotesCompu\1.0.0\bin\javaw.exe (not found)
+64-bit search:	SOFTWARE\JavaSoft\Java Runtime Environment...
+Check:		SOFTWARE\JavaSoft\Java Runtime Environment\1.8
+Check launcher:	C:\Program Files\Java\jre1.8.0_261\bin\javaw.exe (OK)
+Match:		1.008.000
+Check:		SOFTWARE\JavaSoft\Java Runtime Environment\1.8.0_261
+Check launcher:	C:\Program Files\Java\jre1.8.0_261\bin\javaw.exe (OK)
+Match:		1.008.000_261
+64-bit search:	SOFTWARE\JavaSoft\Java Development Kit...
+Check:		SOFTWARE\JavaSoft\Java Development Kit\1.8
+Ignore:		1.008.000
+Check:		SOFTWARE\JavaSoft\Java Development Kit\1.8.0_261
+Ignore:		1.008.000_261
+64-bit search:	SOFTWARE\JavaSoft\JRE...
+64-bit search:	SOFTWARE\JavaSoft\JDK...
+Runtime used:	1.008.000_261 (64-bit)
+Launcher:	C:\Program Files\Java\jre1.8.0_261\bin\javaw.exe
+Launcher args:	-jar "C:\Users\TOLSTOI\Documents\AbarrotesCompu\ControlAbarrotes.exe"
+Args length:	69/32768 chars
+Error msg:	An error occurred while starting the application.
+
+
+Version:	3.12
+CmdLine:	C:\Users\TOLSTOI\Documents\AbarrotesCompu\ControlAbarrotes.exe --l4j-debug
+WOW64:		yes
+Working dir:	C:\Users\TOLSTOI\Documents\AbarrotesCompu\.
+Java min ver:	1.000.000
+Java max ver:	
+Bundled JRE:	1.0.0
+Check launcher:	C:\Users\TOLSTOI\Documents\AbarrotesCompu\1.0.0\bin\javaw.exe (not found)
+64-bit search:	SOFTWARE\JavaSoft\Java Runtime Environment...
+Check:		SOFTWARE\JavaSoft\Java Runtime Environment\1.8
+Check launcher:	C:\Program Files\Java\jre1.8.0_261\bin\javaw.exe (OK)
+Match:		1.008.000
+Check:		SOFTWARE\JavaSoft\Java Runtime Environment\1.8.0_261
+Check launcher:	C:\Program Files\Java\jre1.8.0_261\bin\javaw.exe (OK)
+Match:		1.008.000_261
+64-bit search:	SOFTWARE\JavaSoft\Java Development Kit...
+Check:		SOFTWARE\JavaSoft\Java Development Kit\1.8
+Ignore:		1.008.000
+Check:		SOFTWARE\JavaSoft\Java Development Kit\1.8.0_261
+Ignore:		1.008.000_261
+64-bit search:	SOFTWARE\JavaSoft\JRE...
+64-bit search:	SOFTWARE\JavaSoft\JDK...
+Runtime used:	1.008.000_261 (64-bit)
+Launcher:	C:\Program Files\Java\jre1.8.0_261\bin\javaw.exe
+Launcher args:	-jar "C:\Users\TOLSTOI\Documents\AbarrotesCompu\ControlAbarrotes.exe"
+Args length:	69/32768 chars
+Error msg:	An error occurred while starting the application.
